@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false
   more_info: >
-    <p>Email: ashish.ghimire@tcu.edu</p>
+    <p><strong>Email:</strong> ashish.ghimire@tcu.edu</p>
 
 selected_papers: false
 social: true
