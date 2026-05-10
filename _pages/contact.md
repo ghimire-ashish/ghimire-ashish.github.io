@@ -93,6 +93,10 @@ I welcome conversations with students, colleagues, alumni, industry professional
 ## Let's get connected
 
 <div class="profile-links">
-  <a href="https://www.linkedin.com/in/ashish-ghimire-63b1b679/" target="_blank">LinkedIn</a>
-  <a href="https://github.com/ghimire-ashish" target="_blank">GitHub</a>
+  <a href="https://www.linkedin.com/in/ashish-ghimire-63b1b679/" target="_blank">
+    <i class="fab fa-linkedin"></i> LinkedIn
+  </a>
+  <a href="https://github.com/ghimire-ashish" target="_blank">
+    <i class="fab fa-github"></i> GitHub
+  </a>
 </div>
