@@ -70,7 +70,7 @@ nav_order: 1
 
   <div>
     <div class="about-name">Ashish Ghimire</div>
-    <div class="about-title">Assistant Professor of Professional Practice of Finance</div>
+    <div class="about-title">Professor of Finance</div>
 
     <div class="about-text">
       <p>
