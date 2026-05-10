@@ -48,16 +48,6 @@ nav_order: 2
 
 <br>
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <strong>Graduate Teaching Assistant</strong><br>
-    Arkansas State University
-  </div>
-  <div><em>2015-2017</em></div>
-</div>
-
-<br>
-
 ## Education
 
 <div style="display: flex; justify-content: space-between;">
@@ -91,6 +81,5 @@ nav_order: 2
   </div>
   <div style="text-align: right;">
     <em>May, 2013</em><br>
-    <em>Cum Laude</em>
   </div>
 </div>
