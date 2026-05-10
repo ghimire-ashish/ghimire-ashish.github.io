@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ashishghimire.github.io/sitemap.xml
+Sitemap: https://ghimire-ashish.github.io/sitemap.xml
