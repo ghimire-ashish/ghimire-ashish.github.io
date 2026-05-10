@@ -38,15 +38,6 @@ nav_order: 2
 
 <br>
 
-<div style="display: flex; justify-content: space-between;">
-  <div>
-    <strong>Graduate Research and Teaching Assistant</strong><br>
-    University of North Texas
-  </div>
-  <div><em>2018-2022</em></div>
-</div>
-
-<br>
 
 ## Education
 
