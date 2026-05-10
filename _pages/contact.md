@@ -84,17 +84,15 @@ I welcome conversations with students, colleagues, alumni, industry professional
   </div>
 
   <div class="contact-card">
-    <div class="contact-card-title">Position</div>
-    <div class="contact-card-detail">Assistant Professor of Professional Practice of Finance</div>
+    <div class="contact-card-title">Department</div>
+    <div class="contact-card-detail">Department of Finance</div>
   </div>
 
 </div>
 
-## Profiles
+## Let's get connected
 
 <div class="profile-links">
-  <a href="https://scholar.google.com/" target="_blank">Google Scholar</a>
-  <a href="https://www.ssrn.com/" target="_blank">SSRN</a>
-  <a href="https://www.linkedin.com/" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/ashish-ghimire-63b1b679/" target="_blank">LinkedIn</a>
   <a href="https://github.com/ghimire-ashish" target="_blank">GitHub</a>
 </div>
