@@ -79,10 +79,10 @@ My teaching emphasizes practical application, conceptual clarity, and analytical
 ## Teaching Interests
 
 <div class="interest-list">
+  <span class="interest-tag">Financial Management</span>
   <span class="interest-tag">Corporate Finance</span>
-  <span class="interest-tag">Portfolio Management</span>
-  <span class="interest-tag">Personal Finance</span>
   <span class="interest-tag">Investments</span>
+  <span class="interest-tag">Portfolio Management</span>
 </div>
 
 ## Teaching Experience
@@ -92,12 +92,12 @@ My teaching emphasizes practical application, conceptual clarity, and analytical
 
   <div class="course-entry">
     <div class="course-name">Financial Management</div>
-    <div class="course-term">Fall 2025</div>
+    <div class="course-term">Fall 2025, Spring 2026, Fall 2026</div>
   </div>
 
   <div class="course-entry">
     <div class="course-name">Advanced Financial Management</div>
-    <div class="course-term">Fall 2025</div>
+    <div class="course-term">Fall 2025, Spring 2026</div>
   </div>
 </div>
 
