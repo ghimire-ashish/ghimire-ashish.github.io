@@ -99,6 +99,11 @@ My teaching emphasizes practical application, conceptual clarity, and analytical
     <div class="course-name">Advanced Financial Management</div>
     <div class="course-term">Fall 2025, Spring 2026</div>
   </div>
+
+  <div class="course-entry">
+    <div class="course-name">Advanced Financial Management (EMBA)</div>
+    <div class="course-term">Spring 2026</div>
+  </div>
 </div>
 
 <div class="school-block">
