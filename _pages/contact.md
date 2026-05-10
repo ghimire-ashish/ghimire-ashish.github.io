@@ -100,6 +100,6 @@ I welcome conversations with students, colleagues, alumni, industry professional
     <i class="fab fa-github"></i> GitHub
   </a>
   <a href="https://www.tiktok.com/@drgacademy" target="_blank">
-  <i class="fab fa-tiktok"></i> Finance Education TikTok
+  <i class="fab fa-tiktok"></i> TikTok
 </a>
 </div>
