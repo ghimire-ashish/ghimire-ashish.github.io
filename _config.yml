@@ -9,7 +9,7 @@ last_name:
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Personal website of Ashish Ghimire, finance faculty at Texas Christian University.
+  Personal website of Ashish Ghimire, Finance Faculty at Texas Christian University.
 footer_text: >
   © Ashish Ghimire. Personal academic website hosted on <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
