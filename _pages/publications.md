@@ -19,32 +19,23 @@ nav_order: 4
 .paper-title {
   font-weight: 700;
   font-size: 1.08rem;
-  color: var(--global-theme-color);
+  color: var(--global-text-color);
 }
 
 .paper-authors {
   margin-top: 0.15rem;
+  color: var(--global-text-color);
 }
 
 .paper-journal {
   margin-top: 0.25rem;
+  color: var(--global-text-color);
 }
 
 .paper-journal strong {
-  text-decoration: underline;
-}
-
-.paper-note {
-  margin-top: 0.35rem;
-  color: var(--global-text-color-light);
-}
-
-.paper-links {
-  margin-top: 0.35rem;
-}
-
-.paper-links a {
-  margin-right: 0.8rem;
+  font-weight: 700;
+  text-decoration: none;
+  color: var(--global-text-color);
 }
 </style>
 
