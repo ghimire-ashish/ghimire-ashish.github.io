@@ -99,4 +99,7 @@ I welcome conversations with students, colleagues, alumni, industry professional
   <a href="https://github.com/ghimire-ashish" target="_blank">
     <i class="fab fa-github"></i> GitHub
   </a>
+  <a href="https://www.tiktok.com/@drgacademy" target="_blank">
+  <i class="fab fa-tiktok"></i> Finance Education TikTok
+</a>
 </div>
