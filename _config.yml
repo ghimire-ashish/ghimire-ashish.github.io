@@ -2,27 +2,26 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title:
 first_name: Ashish
 middle_name:
 last_name: Ghimire
 contact_note: >
   The best way to reach me is by email.
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
+description: >
   Finance faculty member. My research interests include corporate finance, corporate governance, executive labor markets, and capital markets.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: finance, corporate finance, financial reporting, executive labor markets, capital markets, academic website
-lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+keywords: finance, corporate finance, corporate governance, executive labor markets, capital markets, academic website
+lang: en
+icon: 📊
 
 url: https://ashishghimire.github.io
 baseurl:
-last_updated: false # set to true if you want to display last updated in the footer
-impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-back_to_top: true # set to false to disable the back to top button
+last_updated: false
+impressum_path:
+back_to_top: true
 
 # -----------------------------------------------------------------------------
 # Theme
@@ -91,8 +90,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name: Ashish Ghimire
+blog_description: Research, teaching, and academic updates
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
