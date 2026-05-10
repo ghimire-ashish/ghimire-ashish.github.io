@@ -85,7 +85,7 @@ I welcome conversations with students, colleagues, alumni, industry professional
 
   <div class="contact-card">
     <div class="contact-card-title">Department</div>
-    <div class="contact-card-detail">Department of Finance</div>
+    <div class="contact-card-detail">Finance</div>
   </div>
 
 </div>
