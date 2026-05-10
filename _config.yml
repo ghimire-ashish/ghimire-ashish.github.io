@@ -2,10 +2,10 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank
-first_name: Ashish
+title: Ashish Ghimire
+first_name:
 middle_name:
-last_name: Ghimire
+last_name:
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
