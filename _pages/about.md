@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  
+
 selected_papers: false
 social: false
 
@@ -23,23 +23,6 @@ latest_posts:
   limit: 3
 ---
 
-I am a finance faculty member with research interests in corporate finance, corporate governance, executive labor markets, and capital markets.
+I am a finance faculty member at Texas Christian University. My academic interests center on corporate finance, corporate governance, executive labor markets, and capital markets, and I enjoy bringing real-world finance examples into the classroom.
 
-My research examines how firms, executives, boards, and financial markets interact, with a particular interest in managerial labor markets, corporate decision-making, and firm outcomes.
-
-This website provides information about my research, teaching, curriculum vitae, and contact details.
-
-## Research Interests
-
-- Corporate finance
-- Corporate governance
-- Executive labor markets
-- Capital markets
-
-## Current Work
-
-My current research focuses on questions related to executive turnover, career outcomes, corporate policies, and firm performance.
-
-## Contact
-
-The best way to reach me is by email.
+Outside of work, I enjoy watching sports, especially soccer, college football, and tennis. I also grew up playing cricket for much of my life and continue to enjoy staying active through tennis and pickleball. I enjoy spending time outdoors, hiking, exploring nature, and traveling whenever I can.
