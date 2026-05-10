@@ -47,7 +47,7 @@ nav_order: 2
     Major: Finance
   </div>
   <div style="text-align: right;">
-    <em>August, 2022</em>
+    <em>2022</em>
   </div>
 </div>
 
@@ -59,7 +59,7 @@ nav_order: 2
     Major: Finance
   </div>
   <div style="text-align: right;">
-    <em>August, 2017</em>
+    <em>2017</em>
   </div>
 </div>
 
@@ -71,6 +71,6 @@ nav_order: 2
     Major: Finance
   </div>
   <div style="text-align: right;">
-    <em>May, 2013</em><br>
+    <em>2013</em><br>
   </div>
 </div>
