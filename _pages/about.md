@@ -2,17 +2,15 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor of Professional Practice of Finance
+subtitle: Professor of Finance
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false
-  more_info: >
-    <p><strong>Email:</strong> ashish.ghimire@tcu.edu</p>
-
+  
 selected_papers: false
-social: true
+social: false
 
 announcements:
   enabled: false
