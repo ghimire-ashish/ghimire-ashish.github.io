@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Get in Touch
 permalink: /contact/
 nav: true
 nav_order: 5
@@ -61,7 +61,7 @@ nav_order: 5
 </style>
 
 <div class="contact-note">
-I welcome conversations with students, colleagues, and researchers interested in finance, corporate governance, executive labor markets, capital markets, teaching, and potential collaborations.
+I welcome conversations with students, colleagues, alumni, industry professionals, and others interested in finance, teaching, research, career development, or potential collaborations.
 </div>
 
 <div class="contact-grid">
