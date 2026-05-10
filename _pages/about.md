@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: Finance Faculty
+subtitle: Assistant Professor of Professional Practice of Finance
 
 profile:
   align: right
